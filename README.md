@@ -1,2 +1,1 @@
-# Fronteira_Eficiente_de_Markowitz
-ASDASDASDASD
+Implementação Computacional do Modelo de Fronteira Eficiente de Markowitz
