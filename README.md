@@ -1,1 +1,1 @@
-Implementação Computacional do Modelo de Fronteira Eficiente de Markowitz
+Implementação Computacional do Modelo de Fronteira Eficiente de Markowitz.
